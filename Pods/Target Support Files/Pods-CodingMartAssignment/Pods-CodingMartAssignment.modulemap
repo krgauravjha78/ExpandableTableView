@@ -1,0 +1,6 @@
+framework module Pods_CodingMartAssignment {
+  umbrella header "Pods-CodingMartAssignment-umbrella.h"
+
+  export *
+  module * { export * }
+}
